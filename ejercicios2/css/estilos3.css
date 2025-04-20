@@ -1,0 +1,19 @@
+.parrafo1{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    max-width: 950px; 
+    background-color: rgb(84, 214, 91);
+    padding: 30px;
+
+}
+.parrafo2{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    max-width: 950px; 
+    background-color: rgb(127, 103, 214);
+    padding: 30px;
+
+}
+.tachado{
+    text-decoration: line-through;
+}
