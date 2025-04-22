@@ -1,0 +1,17 @@
+.primero{
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-transform: uppercase;
+
+}
+.segundo{
+    letter-spacing: 4px;
+    word-spacing: 15px;
+    text-transform: uppercase;
+
+}
+.tercero{
+    letter-spacing: 8px;
+    word-spacing: 20px;
+    text-transform: uppercase;
+}
